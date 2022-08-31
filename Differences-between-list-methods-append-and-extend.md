@@ -3,11 +3,12 @@ title: "Differences between list methods, append and extend in Python"
 description: "The differences between list methods, append and extend in Python."
 date: "2022-08-09T04:15:05+09:00"
 draft: false
-link: "differecnces between list methods, append and extend"
-author: "Shittu Olumide"
+link: "append vs extend methods"
+author: ""
 ---
 
 ## Overview
+
 It's safe to say that python's ability to employ methods is one of its key advantages. If nothing else, you'll use them a lot while developing python applications. The reusable code that can be used at any point over the course of the program is contained in these methods.
 
 In object-oriented programming, there are objects. They are made up of traits and actions. In addition, an object's properties and behavior are defined by its attributes and methods, respectively. These methods are defined within a class.
@@ -18,7 +19,8 @@ I'll explain the idea in this article, but I'll also go through how python's lis
 
 
 
-### Python List
+## Python List
+
 A list is made by enclosing elements in square brackets [] and separating them with commas. Lists are useful for storing multiple elements in a single variable.
 
 One of Python's four inbuilt data types for storing data collections is the list. Tuple, set, and dictionary are the other three; each has a distinct purpose.
@@ -136,51 +138,15 @@ print(x)
 ```
 Note: after we extend the list y, only the list `x` is modified while the list `y` stays intact.
 
-### Time complexity and Performance between append() and extend()
-The efficiency measurement is another distinction to take into account. We can fairly readily calculate the **time complexity** for each approach given the details of how each method operates. These are the time complexities:
 
-|  Method          |        Time Complexity        |
-|----------------  |-------------------------------|
-|append()          |    O(1)                       |
-|extend()          |    O(K)`                      |
-
-Where "k" is the number of elements in the parameter object, while append has a constant time complexity.
-
-We may also compare the two methods **performance** to see which one executes faster.
-```python
-import timeit
-
-def append_method(app):
-    app.append(1)
-    app.append(1)
-
-def extend_method(ext):
-    ext.extend([1,1])
-
-list_1 = []
-list_2 = []
-
-print('append() time: ',  timeit.timeit())
-print('extend() time: ', timeit.timeit())
-```
-
-**Output**:
-```python
-#result after printing x
-append() time:  0.020794700000000055
-extend() time:  0.03749620000000009
-```
 
 
 ## Conclusion
 
-In this article, we discussed in detail about the differecnces between two list methods `.append()` and `.extend()` in python.
+In this article, we discussed in detail about the differences between two list methods `.append()` and `.extend()` in python.
+
 We looked into what python lists are, how it is annotated using `[]` with some examples. We discussed in detail the differences between the append and extend methods. 
+
 We said the `.append()` adds a single item to the end of a list while the `.extend()` gives us the flexibility to join two lists together.
-
-
-
-
-
 
 
