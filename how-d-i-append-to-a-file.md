@@ -1,17 +1,18 @@
 ---
-title: "How do I check if a list is empty?"
-description: "How to check if a list in python is empty."
-date: "2022-08-28"
+title: "How do i append to a file"
+description: "Hpw you can easily i append to a file in python"
+date: "2022-09-04"
 draft: false
-link: "How do I check if a list is empty?"
-author: "Shittu Olumide"
+link: "How do i append to a file"
+author: "Shittu Olumide"z
 ---
 
-Everyday as a developer or programmer we are faced with different problems and it gets a little too confusing to solve them. Programming questions can be really hectic and difficult to solve because they require lots of thinking and trials. 
+In Python, reading, writing, and editing files are common tasks since the language gives us built-in functions to do so. 
 
-You may be in an hackathon or in a live coding test and you are given a data structure test where you are asked to perform different operations such as loop, conditionals, error handling, and lots more. 
+As a developer there are so many reason why you will want to read, write and also edit the files in your project, and python really offers the flexibility to do so in very simple and easy ways. There are a couple of file handling operations in python such as `r` which works for reading the file, `w` opening a file and writing to it, `a` opens a file for appending at the end of the file without truncating it, `+` opens a file for updating(reading & writing) and so on.
 
-I'll explain how you can quickly check if a python list is empty in this article
+In this article, I will be discussing briefly how you can easy append to a file using the python programming language and how to use the append operation effectively.
+
 
 
 ### List in python
