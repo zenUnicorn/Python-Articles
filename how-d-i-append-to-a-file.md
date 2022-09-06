@@ -1,10 +1,10 @@
 ---
 title: "How do i append to a file"
-description: "Hpw you can easily i append to a file in python"
+description: "How you can easily i append to a file in python"
 date: "2022-09-04"
 draft: false
 link: "How do i append to a file"
-author: "Shittu Olumide"z
+author: "Shittu Olumide"
 ---
 
 In Python, reading, writing, and editing files are common tasks since the language gives us built-in functions to do so. 
@@ -13,10 +13,15 @@ As a developer there are so many reason why you will want to read, write and als
 
 In this article, I will be discussing briefly how you can easy append to a file using the python programming language and how to use the append operation effectively.
 
+### What is a file?
+A file is a designated spot on the hard drive where associated data is kept. It is used to keep data in non-volatile memory for all time (e.g. hard disk). 
 
+A file must first be opened before we can append to it. It must be closed once we are finished so that the resources associated with the file can be released.
 
-### List in python
-In python a list is made by enclosing elements in square brackets [  ] and separating them with commas and they are quite are useful for storing multiple elements in a single variable.
+Consequently, a file operation in Python happens in the following order:
+- Open a file
+- Append to the file
+- Close the file
 
 
 ### Why check if a list is empty in Python?
