@@ -11,6 +11,7 @@ In Python, reading, writing, and editing files are common tasks since the langua
 
 As a developer there are so many reason why you will want to read, write and also edit the files in your project, and python really offers the flexibility to do so in very simple and easy ways. There are a couple of file handling operations in python such as `r` which works for reading the file, `w` opening a file and writing to it, `a` opens a file for appending at the end of the file without truncating it, `+` opens a file for updating(reading & writing) and so on.
 
+
 In this article, I will be discussing briefly how you can easy append to a file using the python programming language and how to use the append operation effectively.
 
 ### What is a file?
@@ -49,16 +50,16 @@ The example.txt file should look like this now.
 
 When you're done appending to the file, the with statement immediately closes it.
 
-#### Using the open function
+#### Using the open function 
 The file is opened via the open() function, which also returns the appropriate file object. 
 The syntax of `open()` is:
 
 ```python
 open(file, mode='')
 ```
-Let's say we have a file called example2.txt with this content:
+Let's say we have a file called `example2.txt` with this content:
 
-> python The quick brown fox jumps over the lazy dog And says
+> The quick brown fox jumps over the lazy dog And says
 
 Now let’s append text 'Hi' at the end of this file,
 ```python
@@ -71,9 +72,9 @@ Now let’s append text 'Hi' at the end of this file,
     ham.close()
 ```
 Contents of the file example2.txt’ will now be,
-> python The quick brown fox jumps over the lazy dog And says Hi.
+> The quick brown fox jumps over the lazy dog And says Hi.
 
-#### Append to a file as a new line
+#### Append to a file as a new line 
 Let's start with the primary technique, discuss its shortcomings, and look for ways to make it better.
 
 File should be opened in append and read mode `('a+')`. The file's end is indicated by both the read and write cursors, the place the read cursor at the file's beginning. Check to see if the file is empty or not by reading some content from it. If the file is not empty, use the `write()` function to insert `"\n"` at the end of the file. Using the `write()` function, add a specified line to the file and close the file.
@@ -126,7 +127,7 @@ def add_lines(file_name, line_list):
 if we pass a series of lines to our `line_list` array,
 
 ```python
-line_list = ['This is the third line', 'Followed ny the fourth line']
+line_list = ['This is the third line', 'Followed by the fourth line']
 ```
 Let's call the function and append the new lines to it
 
@@ -146,9 +147,5 @@ It appended all the given strings in the list as newlines in the file.
 
 ## Conclusion
 
-We covered a lot in this article how how to append
-
-
-
-
+We covered a lot in this article on how to append to a file. We looked at using the `with` statement, the `open` function, append to a file as a new line and appending multiple lines to a file. I genuinely hope that this article has taught you one or two things.
 
