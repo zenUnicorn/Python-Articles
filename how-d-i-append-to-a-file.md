@@ -34,10 +34,8 @@ Let us take a look at the different way to append to a file.
 The concise shorthand of a try-catch block is replaced with the with statement. More significantly, it makes sure that resources are closed immediately after being processed. Reading from or writing to a file is a typical example of using the with statement. A context manager is a function or class that supports the with statement.
 
 Imagine you have a file with the name `example.txt` and the content looks like this.
-```python
-The sun shines brighter in the day
-Especially in the afternoon
-```
+
+> The sun shines brighter in the day especially in the afternoon
 
 Code sample:
 ```python
@@ -46,11 +44,9 @@ with open("example.txt","a") as file:
 ```
 
 The example.txt file should look like this now.
-```python
-The sun shines brighter in the day
-Especially in the afternoon
-I like to play in the sun light
-```
+
+> The sun shines brighter in the day especially in the afternoon, I like to play in the sun light
+
 When you're done appending to the file, the with statement immediately closes it.
 
 #### Using the open function
@@ -60,6 +56,25 @@ The syntax of `open()` is:
 ```python
 open(file, mode='')
 ```
+Let's say we have a file called example2.txt with this content:
+
+> python The quick brown fox jumps over the lazy dog And says
+
+Now let’s append text 'Hi' at the end of this file,
+```python
+    # Open a file with access mode 'a'
+    ham = open('example2.txt', 'a')
+
+    # Append 'Hi' at the end of file
+    ham.write(' Hi.')
+    # Close the file
+    ham.close()
+```
+Contents of the file example2.txt’ will now be,
+> python The quick brown fox jumps over the lazy dog And says Hi.
+
+#### Append to a file as a new line in Python
+
 
 
 ## Conclusion
