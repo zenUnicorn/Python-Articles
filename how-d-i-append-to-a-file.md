@@ -73,14 +73,80 @@ Now let’s append text 'Hi' at the end of this file,
 Contents of the file example2.txt’ will now be,
 > python The quick brown fox jumps over the lazy dog And says Hi.
 
-#### Append to a file as a new line in Python
+#### Append to a file as a new line
+Let's start with the primary technique, discuss its shortcomings, and look for ways to make it better.
+
+File should be opened in append and read mode `('a+')`. The file's end is indicated by both the read and write cursors, the place the read cursor at the file's beginning. Check to see if the file is empty or not by reading some content from it. If the file is not empty, use the `write()` function to insert `"\n"` at the end of the file. Using the `write()` function, add a specified line to the file and close the file.
+
+We hava a file named `test.txt` with this content:
+
+> This is a test file and I am going to append a new line to it.
+
+Let's append the new line to the `text.txt` file,
+
+```python
+with open("test.txt", "a+") as ram:
+    ram.seek(0)
+    data = ram.read(100)
+    if len(data) > 0 :
+        ram.write("\n")
+    ram.write("This is the new added line.")
+```
+I had to open the file in append & read mode ('a+'), then I moved the cursor to the start of the file, I did a check to see if the file is not empty then I append the text at the end of the file in a new line.
+
+The `test.txt` should look like this now,
+
+> This is a test file and I am going to append a new line to it.
+> This is the new added line.
+
+#### Append multiple lines
+The File should be opened in append & read mode `('a+')`,the file's end is indicated by both the read and write cursors. Make sure you place the read cusor at the file's beginning. Check to see if the file is empty or not by reading some content from it. If the file is empty set appendEOL as False, for each list item if appendEOL is False and its first element in the List is False. Don't use the `write()` function to append `'\n'` to the file's end. Else using the `write()` function, append '\n' to the end of the file. Utilize the `write()` function to append the element to the file then close the file.
+
+We have a file with the name `test.txt` containing,
+> This ia a line
+> This ia a second line
+
+Lets write a function to add multiple lines to this file.
+
+```python
+def add_lines(file_name, line_list):
+    with open(file_name, "a+") as ham:
+        appendEOL = False
+        ham.seek(0)
+        data = ham.read(100)
+        if len(data) > 0:
+            appendEOL = True
+        for line in line_list:
+            if appendEOL == True:
+                ham.write("\n")
+            else:
+                appendEOL = True
+            ham.write(line)
+```
+if we pass a series of lines to our `line_list` array,
+
+```python
+line_list = ['This is the third line', 'Followed ny the fourth line']
+```
+Let's call the function and append the new lines to it
+
+```python
+# Append strings in list as seperate new lines in the end of file
+append_multiple_lines('test.txt', line_list)
+```
+The content of the file 'test.txt' is,
+> This ia a line
+> This ia a second line
+> This is the third line
+> Followed ny the fourth line
+
+It appended all the given strings in the list as newlines in the file.
 
 
 
 ## Conclusion
 
-As you can see, Python has a variety of methods for determining whether a list is empty. Additionally, using this condition before and then nesting your if or for loops is a good practice as it will help to minimize unintended errors. It all depends on your preference but the PEP 8 method is highly recommended as it usually pays off in performance.
-
+We covered a lot in this article how how to append
 
 
 
