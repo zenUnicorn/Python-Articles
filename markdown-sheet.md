@@ -61,10 +61,12 @@ You can easily add tables to your markdown file, by using the pipe symbol ( || )
 ## Adding a code block
 You can easily add your favorite code into your markdown file using three backticks followed by the programming language.
 
+Python
 ```python
 print("Hello world")
 ```
 
+JavaScript
 ```javascript
 console.log("Hello world");
 ```
@@ -97,7 +99,7 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 ## Adding Emoji
 That video is very funny! :joy:
 
-## Subscript	
+## Strike through	
 H~2~O
 
 ## Superscript	
@@ -105,7 +107,7 @@ Add the carret symbol in between the two letters or numbers
 X^2^
 
 
-
+## Flow charts
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
