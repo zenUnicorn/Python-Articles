@@ -8,11 +8,14 @@ Hello World 👋
 
 > Note: All articles in this repo are in markdown format.
 
-|  Language              |Python                          |HTML                         |
-|------------------|-------------------------------|-----------------------------|
-|**Beginner**      | will be uodated            |'Isn't this fun?'            |
-|**Intermediate**  |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|**Senior**        |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+
+|  Language        |Python               |     More                   |
+|------------------|---------------------|----------------------------|
+|**Beginner**      | `will be uodated`   |`will be uodated`           |
+|**Intermediate**  |`will be uodated`    |`will be uodated`           |
+|**Senior**        |`will be uodated`    |`will be uodated`           |
+
 
 
 Thanks!
