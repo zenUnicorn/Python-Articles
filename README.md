@@ -12,9 +12,9 @@ Hello World 👋
 
 
 
-|  Level           | Title               |     Link                   |
-|------------------|---------------------|----------------------------|
-|**Beginner**      | `will be uodated`   |`will be uodated`           |
+|  Level           | Title                                                  |     Link                   |
+|------------------|--------------------------------------------------------|----------------------------|
+|**Beginner**      | Differences between list methods, append, and extend   | [Link](https://github.com/zenUnicorn/Python-Articles/blob/main/Differences-between-list-methods-append-and-extend.md)          |
 |**Intermediate**  |`will be uodated`    |`will be uodated`           |
 |**Senior**        |`will be uodated`    |`will be uodated`           |
 
