@@ -12,7 +12,7 @@ Hello World 👋
 
 
 
-|  Language        |Python               |     More                   |
+|  Level           | Title               |     Link                   |
 |------------------|---------------------|----------------------------|
 |**Beginner**      | `will be uodated`   |`will be uodated`           |
 |**Intermediate**  |`will be uodated`    |`will be uodated`           |
