@@ -2,7 +2,7 @@
 
 This is just a public repo where I document all my processes and my articles about the python programming language. 
 
-So if this something you like and would love to contribute to, please feel free to **star** the repo and create a `pr`
+So if this something you like and would love to contribute to, please feel free to **star** the repo and create a `PR`
 
 ```python
 Hello World 👋
@@ -18,6 +18,7 @@ Hello World 👋
 |**Beginner**  | How to check if a list in python is empty.                 |  [Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/How-to-check-if-a-list-in-python-is-empty.md)                                      |
 |**Beginner**        | How do I append to a file   |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------   |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
