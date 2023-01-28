@@ -39,6 +39,6 @@ Hello World 👋
 
 
 
-More loading.....
+More loading...
 
 Thanks!
