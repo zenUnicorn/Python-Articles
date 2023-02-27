@@ -17,8 +17,8 @@ Hello World 👋
 |**Beginner**      | Differences between list methods, append, and extend   | [Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/Differences-between-list-methods-append-and-extend.md)   |
 |**Beginner**  | How to check if a list in python is empty.                 |  [Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/How-to-check-if-a-list-in-python-is-empty.md)                                      |
 |**Beginner**        | How do I append to a file   |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
-|**Beginner**        | How to download Youtube Music and Videos with Python   |[Read here](https://shittuolumide.hashnode.dev/how-to-download-youtube-music-and-videos-with-python)         |
-|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | Extract tables from images in Python   |[Read here](https://shittuolumide.hashnode.dev/how-to-download-youtube-music-and-videos-with-python)         |
+|**Beginner**        | -------------------------------------    |[Read here](https://iamholumeedey007.medium.com/extract-tables-from-images-in-python-ae26a76ba29c)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
