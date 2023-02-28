@@ -19,7 +19,7 @@ Hello World 👋
 |**Beginner**        | How do I append to a file   |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | How to download Youtube music and videos in Python   |[Read here](https://shittuolumide.hashnode.dev/how-to-download-youtube-music-and-videos-with-python)         |
 |**Beginner**        |  Extract tables from images in Python    |[Read here](https://iamholumeedey007.medium.com/extract-tables-from-images-in-python-ae26a76ba29c)         |
-|**Beginner**        | Adding to Dict in Python – How to Append to a Dictionary    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | Adding to Dict in Python – How to Append to a Dictionary    |[Read here](https://www.freecodecamp.org/news/add-to-dict-in-python/)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
