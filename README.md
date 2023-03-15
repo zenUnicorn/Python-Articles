@@ -23,7 +23,7 @@ Hello World 👋
 |**Beginner**        | Python Dictionary – How to Create a Dict in Python (Hashmap)   |[Read here](https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/)         |
 |**Beginner**        | How to implement dwave_qbsolv in Python    |[Read here](https://www.educative.io/answers/how-to-implement-dwaveqbsolv-in-python)         |
 |**Beginner**        | How to Extract Data from PDF Files with Python  |[Read here](https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/)         |
-|**Beginner**        | Python Iterate Over Dictionary    |[Read here]()         |
+|**Beginner**        | Python Iterate Over Dictionary    |[Read here](https://www.freecodecamp.org/news/python-iterate-over-dictionary-how-to-loop-through-a-dict/)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
