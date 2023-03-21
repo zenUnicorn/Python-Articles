@@ -31,7 +31,7 @@ Hello World 👋
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
-|**Beginner**        | Joining Lists in Python – How to Concat Lists    |[Read here]()         |
+|**Beginner**        | Joining Lists in Python – How to Concat Lists    |[Read here](https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/)         |
 |**Beginner**        | Build your first Data science project from your Netflix data    |[Read here](https://iamholumeedey007.medium.com/build-your-first-data-science-project-from-your-netflix-data-ba3f89ce83e)         |
 
 
