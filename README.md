@@ -8,7 +8,7 @@ So if this something you like and would love to contribute to, please feel free 
 Hello World 👋
 ```
 
-> Note: All articles in this repo are in markdown format.
+> Note: All articles in this repo are in markdown format..
 
 
 
