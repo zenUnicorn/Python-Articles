@@ -28,7 +28,7 @@ Hello World 👋
 |**Beginner**        | Build your first Data science project from your Netflix data   |[Read here](https://iamholumeedey007.medium.com/build-your-first-data-science-project-from-your-netflix-data-ba3f89ce83e)         |
 |**Beginner**        | How to Remove an Item from a List in Python    |[Read here](https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/)         |
 |**Beginner**        | How to Save Pandas Dataframes by Exporting    |[Read here](https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/)
-|**Beginner**        | -------------------------------------    |[Read here](https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/)         |
+|**Beginner**        | Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes    |[Read here](https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
