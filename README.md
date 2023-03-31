@@ -29,7 +29,7 @@ Hello World 👋
 |**Beginner**        | How to Remove an Item from a List in Python    |[Read here](https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/)         |
 |**Beginner**        | How to Save Pandas Dataframes by Exporting    |[Read here](https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/)
 |**Beginner**        | Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes    |[Read here](https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/)         |
-|**Beginner**        | How to Iterate Over Rows with Pandas – Loop Through a Dataframe    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | How to Iterate Over Rows with Pandas – Loop Through a Dataframe    |[Read here]()         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
