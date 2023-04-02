@@ -31,7 +31,7 @@ Hello World 👋
 |**Beginner**        | Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes    |[Read here](https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/)         |
 |**Beginner**        | How to Iterate Over Rows with Pandas – Loop Through a Dataframe    |[Read here](https://www.freecodecamp.org/news/how-to-iterate-over-rows-with-pandas-loop-through-a-dataframe)         |
 |**Beginner**        | How to call a Python function from C#    |[Read here](https://www.educative.io/answers/how-to-call-a-python-function-from-c-sharp)         |
-|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | How to strip whitespace in Python    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
