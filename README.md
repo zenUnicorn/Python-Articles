@@ -35,7 +35,7 @@ Hello World 👋
 |**Beginner**        | Python Split String – How to Split a String into a List or Array in Python    |[Read here](https://www.freecodecamp.org/news/python-split-string-how-to-split-a-string-into-a-list-or-array-in-python/)         |
 |**Beginner**        | How to convert a column in text/string output in Python    |[Read here](https://www.educative.io/answers/how-to-convert-a-column-in-text-string-output-in-python)         |
 |**Beginner**        | Introduction to tntorch Python library    |[Read here](https://www.educative.io/answers/introduction-to-tntorch-python-library)         |
-|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | How to make a circular color gradient in Python    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 
