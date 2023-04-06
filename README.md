@@ -33,7 +33,7 @@ Hello World 👋
 |**Beginner**        | How to call a Python function from C#    |[Read here](https://www.educative.io/answers/how-to-call-a-python-function-from-c-sharp)         |
 |**Beginner**        | How to strip whitespace in Python    |[Read here](https://www.educative.io/answers/how-to-strip-whitespace-in-python)         |
 |**Beginner**        | Python Split String – How to Split a String into a List or Array in Python    |[Read here](https://www.freecodecamp.org/news/python-split-string-how-to-split-a-string-into-a-list-or-array-in-python/)         |
-|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | How to convert a column in text/string output in Python    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
 |**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
