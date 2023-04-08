@@ -37,7 +37,7 @@ Hello World 👋
 |**Beginner**        | Introduction to tntorch Python library    |[Read here](https://www.educative.io/answers/introduction-to-tntorch-python-library)         |
 |**Beginner**        | How to make a circular color gradient in Python    |[Read here](https://www.educative.io/answers/how-to-make-a-circular-color-gradient-in-python)         |
 |**Beginner**        | 10 Best Open-Source Databases: Features, Architecture, & Uses    |[Read here](https://estuary.dev/best-open-source-databases/)         |
-|**Beginner**        | -------------------------------------    |[Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/how-d-i-append-to-a-file.md)         |
+|**Beginner**        | -------------------------------------    |[Read here]()         |
 
 
 
