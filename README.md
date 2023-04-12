@@ -40,6 +40,7 @@ Hello World 👋
 |**Beginner**        | Snowflake vs Redshift vs BigQuery: Major Differences Explained    |[Read here](https://estuary.dev/snowflake-vs-redshift-vs-bigquery/)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | ---------------------------    |[Read here]()         |
 
 
 
