@@ -39,7 +39,7 @@ Hello World 👋
 |**Beginner**        | 10 Best Open-Source Databases: Features, Architecture, & Uses    |[Read here](https://estuary.dev/best-open-source-databases/)         |
 |**Beginner**        | Snowflake vs Redshift vs BigQuery: Major Differences Explained    |[Read here](https://estuary.dev/snowflake-vs-redshift-vs-bigquery/)         |
 |**Beginner**        | How to Pretty Print JSON in Python    |[Read here](https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/)         |
-|**Beginner**        | How to return data from a database in JSON format using Python.    |[Read here]()         |
+|**Beginner**        | How to return data from a database in JSON format using Python.    |[Read here](https://www.educative.io/answers/how-to-return-data-from-a-database-in-json-format-using-python)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
