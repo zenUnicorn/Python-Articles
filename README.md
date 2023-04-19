@@ -41,7 +41,7 @@ Hello World 👋
 |**Beginner**        | How to Pretty Print JSON in Python    |[Read here](https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/)         |
 |**Beginner**        | How to return data from a database in JSON format using Python.    |[Read here](https://www.educative.io/answers/how-to-return-data-from-a-database-in-json-format-using-python)         |
 |**Beginner**        | What is asyncio.gather()?    |[Read here](https://www.educative.io/answers/what-is-asynciogather)         |
-|**Beginner**        | Introduction to Human Action Recognition (HAR)    |[Read here]()         |
+|**Beginner**        | Introduction to Human Action Recognition (HAR)    |[Read here](https://heartbeat.comet.ml/human-action-recognition-har-300a28b01b13)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
