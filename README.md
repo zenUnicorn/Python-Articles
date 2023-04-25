@@ -43,7 +43,7 @@ Hello World 👋
 |**Beginner**        | What is asyncio.gather()?    |[Read here](https://www.educative.io/answers/what-is-asynciogather)         |
 |**Beginner**        | Introduction to Human Action Recognition (HAR)    |[Read here](https://heartbeat.comet.ml/human-action-recognition-har-300a28b01b13)         |
 |**Beginner**        | How to read HTML tables using pandas    |[Read here](https://www.educative.io/answers/how-to-read-html-tables-using-pandas)         |
-|**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | What is cross-entropy loss in PyTorch?    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
