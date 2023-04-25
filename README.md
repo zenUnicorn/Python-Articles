@@ -48,6 +48,7 @@ Hello World 👋
 |**Beginner**        | What is PyTorch Softmax?    |[Read here](https://www.educative.io/answers/what-is-pytorch-softmax)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | ---------------------------    |[Read here]()         |
 
 
 
