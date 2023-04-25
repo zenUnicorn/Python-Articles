@@ -45,7 +45,7 @@ Hello World 👋
 |**Beginner**        | How to read HTML tables using pandas    |[Read here](https://www.educative.io/answers/how-to-read-html-tables-using-pandas)         |
 |**Beginner**        | What is cross-entropy loss in PyTorch?    |[Read here](https://www.educative.io/answers/what-is-cross-entropy-loss-in-pytorch)         |
 |**Beginner**        | What is PyTorch DataLoader?    |[Read here](https://www.educative.io/answers/what-is-pytorch-dataloader)         |
-|**Beginner**        | ---------------------------    |[Read here](https://www.educative.io/answers/what-is-pytorch-softmax)         |
+|**Beginner**        | What is PyTorch Softmax?    |[Read here](https://www.educative.io/answers/what-is-pytorch-softmax)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 
