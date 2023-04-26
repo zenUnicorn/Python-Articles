@@ -48,7 +48,7 @@ Hello World 👋
 |**Beginner**        | What is PyTorch Softmax?    |[Read here](https://www.educative.io/answers/what-is-pytorch-softmax)         |
 |**Beginner**        | How to Use ChatGPT – Prompts for Data Scientists    |[Read here](https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/)         |
 |**Beginner**        | How to bin numerical columns into groups using pandas    |[Read here](https://www.educative.io/answers/how-to-bin-numerical-columns-into-groups-using-pandas)         |
-|**Beginner**        | ---------------------------    |[Read here](https://www.educative.io/answers/how-to-create-an-asyncio-task)         |
+|**Beginner**        | How to create an asyncio task    |[Read here](https://www.educative.io/answers/how-to-create-an-asyncio-task)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 
