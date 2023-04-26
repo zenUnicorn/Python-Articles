@@ -46,7 +46,7 @@ Hello World 👋
 |**Beginner**        | What is cross-entropy loss in PyTorch?    |[Read here](https://www.educative.io/answers/what-is-cross-entropy-loss-in-pytorch)         |
 |**Beginner**        | What is PyTorch DataLoader?    |[Read here](https://www.educative.io/answers/what-is-pytorch-dataloader)         |
 |**Beginner**        | What is PyTorch Softmax?    |[Read here](https://www.educative.io/answers/what-is-pytorch-softmax)         |
-|**Beginner**        | How to Use ChatGPT – Prompts for Data Scientists    |[Read here]()         |
+|**Beginner**        | How to Use ChatGPT – Prompts for Data Scientists    |[Read here](https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
