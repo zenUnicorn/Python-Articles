@@ -50,7 +50,7 @@ Hello World 👋
 |**Beginner**        | How to bin numerical columns into groups using pandas    |[Read here](https://www.educative.io/answers/how-to-bin-numerical-columns-into-groups-using-pandas)         |
 |**Beginner**        | How to create an asyncio task    |[Read here](https://www.educative.io/answers/how-to-create-an-asyncio-task)         |
 |**Beginner**        | Create a dictionary of DataFrames using Pandas library in Python |[Read here](https://algoideas.com/create-a-dictionary-of-dataframes-using-pandas-library-in-python-explained/)         |
-|**Beginner**        | ---------------------------    |[Read here](https://www.educative.io/answers/what-is-the-difference-between-jax-and-tensorflow)         |
+|**Beginner**        | What is the difference between JAX and TensorFlow?    |[Read here](https://www.educative.io/answers/what-is-the-difference-between-jax-and-tensorflow)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
