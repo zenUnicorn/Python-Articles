@@ -51,7 +51,7 @@ Hello World 👋
 |**Beginner**        | How to create an asyncio task    |[Read here](https://www.educative.io/answers/how-to-create-an-asyncio-task)         |
 |**Beginner**        | Create a dictionary of DataFrames using Pandas library in Python |[Read here](https://algoideas.com/create-a-dictionary-of-dataframes-using-pandas-library-in-python-explained/)         |
 |**Beginner**        | What is the difference between JAX and TensorFlow?    |[Read here](https://www.educative.io/answers/what-is-the-difference-between-jax-and-tensorflow)         |
-|**Beginner**        |  How to implement fuzzy string matching algorithm in Python    | |
+|**Beginner**        |
 |**Beginner**        | How to find the domain name using an IP address in Python    |[Read here](https://www.educative.io/answers/how-to-find-the-domain-name-using-an-ip-address-in-python)         |
 |**Beginner**        | How to incorporate pytest-asyncio   |[Read here](https://www.educative.io/answers/how-to-incorporate-pytest-asyncio)         |
 |**Beginner**        | ---------------------------    |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
