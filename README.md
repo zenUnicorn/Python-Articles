@@ -53,7 +53,7 @@ Hello World 👋
 |**Beginner**        | What is the difference between JAX and TensorFlow?    |[Read here](https://www.educative.io/answers/what-is-the-difference-between-jax-and-tensorflow)         |
 |**Beginner**        | How to find the domain name using an IP address in Python    |[Read here](https://www.educative.io/answers/how-to-find-the-domain-name-using-an-ip-address-in-python)         |
 |**Beginner**        | How to incorporate pytest-asyncio   |[Read here](https://www.educative.io/answers/how-to-incorporate-pytest-asyncio)         |
-|**Beginner**        | ---------------------------    |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
+|**Beginner**        | Python Mini Project    |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
