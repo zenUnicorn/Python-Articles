@@ -54,7 +54,7 @@ Hello World 👋
 |**Beginner**        | How to find the domain name using an IP address in Python    |[Read here](https://www.educative.io/answers/how-to-find-the-domain-name-using-an-ip-address-in-python)         |
 |**Beginner**        | How to incorporate pytest-asyncio   |[Read here](https://www.educative.io/answers/how-to-incorporate-pytest-asyncio)         |
 |**Beginner**        | Python Mini Project    |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
-|**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | ---------------------------    |[Read here](https://dev.to/shittu_olumide_/python-mini-projects-51d)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
