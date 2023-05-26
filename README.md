@@ -55,7 +55,7 @@ Hello World 👋
 |**Beginner**        | How to incorporate pytest-asyncio   |[Read here](https://www.educative.io/answers/how-to-incorporate-pytest-asyncio)         |
 |**Beginner**        | Parsing Data with ChatGPT |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
 |**Beginner**        | Python Mini Project    |[Read here](https://dev.to/shittu_olumide_/python-mini-projects-51d)         |
-|**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | How to implement Fuzzy string matching algorithm in Python    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
