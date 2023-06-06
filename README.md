@@ -56,7 +56,7 @@ Hello World 👋
 |**Beginner**        | Parsing Data with ChatGPT |[Read here](https://saturncloud.io/blog/parsing-data-with-chatgpt/)         |
 |**Beginner**        | Python Mini Project    |[Read here](https://dev.to/shittu_olumide_/python-mini-projects-51d)         |
 |**Beginner**        | How to implement Fuzzy string matching algorithm in Python    |[Read here](https://algoideas.com/how-to-implement-fuzzy-string-matching-algorithm-in-python/)         |
-|**Beginner**        | ---------------------------    |[Read here]()         |
+|**Beginner**        | ---------------------------    |[Read here](https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
