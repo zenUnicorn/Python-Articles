@@ -60,7 +60,7 @@ Hello World 👋
 |**Beginner**        | Copy.deepcopy() vs clone() in Pytorch    |[Read here](https://dev.to/shittu_olumide_/copydeepcopy-vs-clone-in-pytorch-455b)         |
 |**Beginner**        | How can I set max_split_size_mb to avoid fragmentation in Pytorch? |[Read here](https://iamholumeedey007.medium.com/how-can-i-set-max-split-size-mb-to-avoid-fragmentation-in-pytorch-ff0a6c641098)         |
 |**Beginner**        | Memory Management using PYTORCH_CUDA_ALLOC_CONF    |[Read here](https://iamholumeedey007.medium.com/memory-management-using-pytorch-cuda-alloc-conf-dabe7adec130)         |
-|**Beginner**        | Pytorch Windows EOFError: Ran out of input when num_workers>0    |[Read here]()         |
+|**Beginner**        | Pytorch Windows EOFError: Ran out of input when num_workers>0    |[Read here](https://iamholumeedey007.medium.com/pytorch-windows-eoferror-ran-out-of-input-when-num-workers-0-4d372157512)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
