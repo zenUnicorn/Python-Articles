@@ -59,7 +59,7 @@ Hello World 👋
 |**Beginner**        | Python Exit – How to Use an Exit Function in Python to Stop a Program    |[Read here](https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/)         |
 |**Beginner**        | Copy.deepcopy() vs clone() in Pytorch    |[Read here](https://dev.to/shittu_olumide_/copydeepcopy-vs-clone-in-pytorch-455b)         |
 |**Beginner**        | How can I set max_split_size_mb to avoid fragmentation in Pytorch? |[Read here](https://iamholumeedey007.medium.com/how-can-i-set-max-split-size-mb-to-avoid-fragmentation-in-pytorch-ff0a6c641098)         |
-|**Beginner**        | Memory Management using PYTORCH_CUDA_ALLOC_CONF    |[Read here]()         |
+|**Beginner**        | Memory Management using PYTORCH_CUDA_ALLOC_CONF    |[Read here](https://iamholumeedey007.medium.com/memory-management-using-pytorch-cuda-alloc-conf-dabe7adec130)         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
 |**Beginner**        | ---------------------------    |[Read here]()         |
