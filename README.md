@@ -12,7 +12,7 @@ Hello World 👋
 
 
 
-|  Level           | Title                                                  |     Link                   |
+|  id           |  Level           | Title                                                  |     Link                   |
 |------------------|--------------------------------------------------------|----------------------------|
 |**Beginner**      | Differences between list methods, append, and extend  | [Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/Differences-between-list-methods-append-and-extend.md)   |
 |**Beginner**  | How to check if a list in python is empty     |  [Read here](https://github.com/zenUnicorn/Python-Articles/blob/main/How-to-check-if-a-list-in-python-is-empty.md)                                      |
