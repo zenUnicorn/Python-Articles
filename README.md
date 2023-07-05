@@ -8,7 +8,7 @@ So if this something you like and would love to contribute to, please feel free 
 Hello World 👋
 ```
 
-> **Note**: Some of the articles are in mardown format while others link to personal and popular blogs.
+> **Note**: Some of the articles are in mardown format, while others link to personal and popular blogs.
 
 
 
