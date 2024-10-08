@@ -1,4 +1,4 @@
-## 🐍 Python-Articles..
+## 🐍 Python-Articles.
 
 This is a public repo where I document all my processes and articles about Python programming.
 
